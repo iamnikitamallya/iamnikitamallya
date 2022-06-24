@@ -1,3 +1,4 @@
 - 👋 Hi, I’m Nikita S Mallya
 - 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning jQuery & ReactJs
+- 🌱 I’m currently learning ReactJs
+- #javascript #html #css #jQuery #ux #ui
