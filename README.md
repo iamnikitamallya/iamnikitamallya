@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Nikita S Mallya
+- 👀 I’m interested in Frontend Development
+- 🌱 I’m currently learning jQuery & ReactJs
