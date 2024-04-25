@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 - 👯 I’m happy to volunteer in UX UI / Frontend development for any NGOs / Charity firms
-- 📫 How to reach me: +44 7435090543 / nikitamallya.work@gmail.com
+- 📫 How to reach me: [📩](mailto:nikitamallya.work@gmail.com)
+
 - 😄 Portfolio: https://nikitamallya.info
 
 
