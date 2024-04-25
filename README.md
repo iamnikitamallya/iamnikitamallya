@@ -5,7 +5,7 @@
 - 😄 Portfolio: https://nikitamallya.info
 
 
-#### React Apps
-- TextifyPro: https://iamnikitamallya.github.io/textifypro/
-- Personal Portfolio: https://iamnikitamallya.github.io/personal-portfolio/
+#### GitHub Hosted - React Apps
+- [TextifyPro](https://iamnikitamallya.github.io/textifypro/)
+- [Personal Portfolio](https://iamnikitamallya.github.io/personal-portfolio/)
 
