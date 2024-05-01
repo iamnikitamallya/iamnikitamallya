@@ -5,6 +5,12 @@
 
 - 😄 Portfolio: https://nikitamallya.info
 
+#### Projects 
+- [Branding & Digital Assets](https://nikitamallya.info/works/digital-assets)
+- [User Experience and User Interface (UX UI)](https://nikitamallya.info/works/uxui)
+- [Frontend Development](https://nikitamallya.info/works/frontend)
+- [Responsive Email Templates](https://nikitamallya.info/works/emails)
+- [Mobile Application Design](https://nikitamallya.info/works/mobile-app)
 
 #### GitHub Hosted - React Apps
 - [TextifyPro](https://iamnikitamallya.github.io/textifypro/)
