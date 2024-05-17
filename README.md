@@ -14,7 +14,6 @@
 
 #### GitHub Hosted - React Apps
 - [TextifyPro](https://iamnikitamallya.github.io/textifypro/)
-- [Personal Portfolio](https://iamnikitamallya.github.io/personal-portfolio/) - This doesn't work as expected because GitHub doesn't support react routes.
 
 #### GitHub Hosted - Vanilla Javascript Apps
 - [Todo List](https://iamnikitamallya.github.io/vanillaJavascriptApps/add-tasks.html)
