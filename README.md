@@ -2,8 +2,8 @@
 
 - 👯 I’m happy to volunteer in UX UI / Frontend development for any NGOs / Charity firms
 - 📫 How to reach me: [📩](mailto:nikitamallya.work@gmail.com)
-
 - 😄 Portfolio: https://nikitamallya.info
+- I am currently focused on developing [npm packages](https://www.npmjs.com/package/@nikitamallya/react-ui-components) that allow React developers to use UI components effortlessly.
 
 #### Projects 
 - [Branding & Digital Assets](https://nikitamallya.info/works/digital-assets)
@@ -15,8 +15,3 @@
 #### GitHub Hosted - React Apps
 - [TextifyPro](https://iamnikitamallya.github.io/textifypro/)
 
-#### GitHub Hosted - Vanilla Javascript Apps
-- [Todo List](https://iamnikitamallya.github.io/vanillaJavascriptApps/add-tasks.html)
-- [Loan Calculator](https://iamnikitamallya.github.io/vanillaJavascriptApps/loan-calculator.html)
-- [Drum Kit Game](https://iamnikitamallya.github.io/vanillaJavascriptApps/drum-kit.html)
-- [Dice Game](https://iamnikitamallya.github.io/vanillaJavascriptApps/dice-game.html)
