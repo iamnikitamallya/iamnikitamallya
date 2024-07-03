@@ -8,6 +8,7 @@
 
 #### Projects 
 - [Branding & Digital Assets](https://nikitamallya.info/works/digital-assets)
+- [E-Learning Courses](https://nikitamallya.info/works/e-learning-courses)
 - [User Experience and User Interface (UX UI)](https://nikitamallya.info/works/uxui)
 - [Frontend Development](https://nikitamallya.info/works/frontend)
 - [Responsive Email Templates](https://nikitamallya.info/works/emails)
