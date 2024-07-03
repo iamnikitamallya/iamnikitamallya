@@ -14,6 +14,3 @@
 - [Responsive Email Templates](https://nikitamallya.info/works/emails)
 - [Mobile Application Design](https://nikitamallya.info/works/mobile-app)
 
-#### GitHub Hosted - React Apps
-- [TextifyPro](https://iamnikitamallya.github.io/textifypro/)
-
