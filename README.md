@@ -4,7 +4,7 @@
 - 📫 How to reach me: [📩](mailto:nikitamallya.work@gmail.com)
 - 😄 Portfolio: https://nikitamallya.info
 - I am currently focused on developing [npm packages](https://www.npmjs.com/package/@nikitamallya/react-ui-components) that allow React developers to use UI components effortlessly.
-- I am also currently working on building courses in Articulate Storyline.
+- I am also focused on building E-Learning courses for the L&D department in Articulate 360 (Storyline & Rise).
 
 #### Projects 
 - [Branding & Digital Assets](https://nikitamallya.info/works/digital-assets)
